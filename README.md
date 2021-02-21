@@ -16,9 +16,11 @@ Soy Lydia, desarrollador junior frontend.
 JavaScript Sass CSS3 GIT HTML5 Typescript Python(básico)
 
 -Conocimientos 3D,VR y AR:
+
 Blender  SparkAR  UnrealEngine4
 
 -Otros conocimientos:
+
 Phostoshop Illustrator AfterEffects Revit AutoCAD
 
 
