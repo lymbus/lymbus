@@ -1,6 +1,6 @@
 
 ### Hola 👋
-Soy Lydia, desarrollador junior frontend.
+Soy Lydia, desarrolladora junior frontend.
 
 🔍Buscando mi primera oportunidad como desarrolladora frontend
 
