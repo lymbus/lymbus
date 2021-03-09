@@ -28,8 +28,7 @@
 
 </div>
 
-<div > 
- 
+<div> 
 <h3 align="left">Languages and Tools:</h3>
 
 <h4>Frontend</h4>
