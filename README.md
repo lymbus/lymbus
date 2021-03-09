@@ -49,9 +49,12 @@
 
 <p align="left"> 
  
-![Python](https://img.shields.io/badge/-Python-AAFFF7?&labelColor=AAFFF7&logo=python&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-AAFFF7?&labelColor=AAFFF7&logo=blender&logoColor=white)
-![Unreal](https://img.shields.io/badge/-Unreal-AAFFF7?&labelColor=AAFFF7&logo=unreal&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-AAFFF7?&labelColor=AAFFF7&logo=python&logoColor=black)
+![Blender](https://img.shields.io/badge/-Blender-AAFFF7?&labelColor=AAFFF7&logo=blender&logoColor=black)
+![Unreal](https://img.shields.io/badge/-Unreal-AAFFF7?&labelColor=AAFFF7&logo=unreal-engine&logoColor=black)
+![Photoshop](https://img.shields.io/badge/-Photoshop-AAFFF7?&labelColor=AAFFF7&logo=photoshop&logoColor=black)
+![Illustrator](https://img.shields.io/badge/-Illustrator-AAFFF7?&labelColor=AAFFF7&logo=illustrator&logoColor=black)
+![Aftereffects](https://img.shields.io/badge/-Aftereffects-AAFFF7?&labelColor=AAFFF7&logo=aftereffects&logoColor=black)
 
 </p>
 
