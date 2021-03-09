@@ -1,7 +1,7 @@
 <h2 align="center">Hi , I'm Lydia 👋</h1><img align="right" alt="GIF" src="animacion.gif" width="300" height="300" />
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-🔍Buscando mi primera oportunidad como desarrolladora frontend
+
 <div align="center">
  
 [![Linkedin](https://img.shields.io/badge/-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
@@ -9,21 +9,21 @@
 [![Instagram](https://img.shields.io/badge/-AAFFF7?&labelColor=AAFFF7&logo=instagram&logoColor=black)](https://www.instagram.com/lymbus.xyz/)
 
  </div>
+ 
 <div align="left">
 
--Conocimientos 3D,VR y AR:
 
--🔍Buscando mi primera oportunidad como desarrolladora frontend
+- 🔍 Looking for my first opportunity as a frontend developer
 
 - 🌱 I’m currently learning **graphql,node.js, three.js and react**
 
 - 👨‍💻 All of my projects are available [here](https://lymbus.github.io/PORFOLIO/)
 
-- 📝 I regularly experiment witch code on [Codepen](https://codepen.io/lymbus)
+- 📝 I regularly experiment with code on [Codepen](https://codepen.io/lymbus)
 
 - 🎨 I´m learning 3D art witch blender
 
-- 💙 
+- 💙 Interested in 3D,VR y AR
 
 
 </div>
@@ -67,6 +67,8 @@
  -🎨 Creativity
 
  -💪 Motivación y persistencia
+ 
+ - [![Linkedin](https://img.shields.io/badge/-🐲-AAFFF7?&labelColor=AAFFF7)]
  
 <h3 align="left">Connect with me:</h3>
 [![Linkedin](https://img.shields.io/badge/-Find me in Linkedin-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
