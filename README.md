@@ -42,6 +42,7 @@ Phostoshop Illustrator AfterEffects Revit AutoCAD
 ![CSS3](https://img.shields.io/badge/-CSS3-AAFFF7?&labelColor=AAFFF7&logo=css3&logoColor=black)
 ![GIT](https://img.shields.io/badge/-GIT-AAFFF7?&labelColor=AAFFF7&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-AAFFF7?&labelColor=AAFFF7&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-AAFFF7?&labelColor=AAFFF7&logo=html5&logoColor=white)
 
 ![Typescript](https://img.shields.io/badge/-Typescript-AAFFF7?&labelColor=AAFFF7&logo=typescript&logoColor=black)
 
