@@ -3,7 +3,7 @@
 Soy Lydia, desarrolladora junior frontend.
 
 🔍Buscando mi primera oportunidad como desarrolladora frontend
-
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 ### Habilidades:
 
 💻 Programación
