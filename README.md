@@ -35,17 +35,17 @@ Phostoshop Illustrator AfterEffects Revit AutoCAD
 
 
 <img alt="LinkedIn" src=""></a>
-![JavaScript](https://img.shields.io/badge/-Javascript-AAFFF7?&labelColor=AAFFF7&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-Javascript-AAFFF7?&labelColor=AAFFF7&logo=javascript&logoColor=black)
 
-![Sass](https://img.shields.io/badge/-Sass-AAFFF7?&labelColor=AAFFF7&logo=sass&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-AAFFF7?&labelColor=AAFFF7&logo=sass&logoColor=black)
 
-![CSS3](https://img.shields.io/badge/-CSS3-AAFFF7?&labelColor=AAFFF7&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-AAFFF7?&labelColor=AAFFF7&logo=css3&logoColor=black)
 ![GIT](https://img.shields.io/badge/-GIT-AAFFF7?&labelColor=AAFFF7&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-AAFFF7?&labelColor=AAFFF7&logo=html5&logoColor=white)
 
-![Typescript](https://img.shields.io/badge/-Typescript-AAFFF7?&labelColor=AAFFF7&logo=typescript&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-AAFFF7?&labelColor=AAFFF7&logo=typescript&logoColor=black)
 
-<img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=white"></a>
+<img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black"></a>
 <img alt="Email" src="https://img.shields.io/badge/-Email-%23694640?logo=gmail&logoColor=white"></a>
 
 
