@@ -49,4 +49,8 @@ Phostoshop Illustrator AfterEffects Revit AutoCAD
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lymbus&show_icons=true&locale=en&layout=compact" alt="lymbus" /></p>
  
+<!-- CD:START -->
 
+<!-- CD:END -->
+
+➡️ [More videos...][yt]
