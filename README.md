@@ -28,6 +28,8 @@
 
 </div>
 
+<div > 
+ 
 <h3 align="left">Languages and Tools:</h3>
 
 <h4>Frontend</h4>
@@ -59,6 +61,7 @@
 </p>
 <div align="right"> 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=lymbus&show_icons=true&locale=en&layout=compact" alt="lymbus" />
+</div>
 </div>
 
 <h4>Skills</h4>
