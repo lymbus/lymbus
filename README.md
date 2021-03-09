@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
 🔍Buscando mi primera oportunidad como desarrolladora frontend
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xT39D2XcdBlkfOH1Yc/giphy.gif" width="500" height="320" />
+
 
 <h4>Skills</h4>
 
