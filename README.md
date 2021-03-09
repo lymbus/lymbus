@@ -1,10 +1,10 @@
-<h2 align="center">Hi , I'm Lydia 👋</h1><img align="right" alt="GIF" src="animacion.gif" width="300" height="300" />
+<h2 align="center">Hi , I'm Lydia 👋</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
-
+<img align="center" alt="GIF" src="animacion.gif" width="300" height="300" />
 
 <div align="center">
  
-[![Linkedin](https://img.shields.io/badge/-logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
+[![Linkedin](https://img.shields.io/badge/-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
 [![Mail](https://img.shields.io/badge/-AAFFF7?&labelColor=AAFFF7&logo=gmail&logoColor=black)](hola@lymbus.xyz)
 [![Instagram](https://img.shields.io/badge/-AAFFF7?&labelColor=AAFFF7&logo=instagram&logoColor=black)](https://www.instagram.com/lymbus.xyz/)
 
@@ -73,9 +73,8 @@
  
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin](https://img.shields.io/badge/-Find-me-in-Linkedin-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
-
-[![Mail](https://img.shields.io/badge/-Send me a mail-AAFFF7?&labelColor=AAFFF7&logo=gmail&logoColor=black)](hola@lymbus.xyz)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
+[![Mail](https://img.shields.io/badge/-Email-AAFFF7?&labelColor=AAFFF7&logo=gmail&logoColor=black)](hola@lymbus.xyz)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lymbus&show_icons=true&locale=en&layout=compact" alt="lymbus" /></p>
 
