@@ -53,7 +53,8 @@
 ![Unreal](https://img.shields.io/badge/-Unreal-AAFFF7?&labelColor=AAFFF7&logo=unreal-engine&logoColor=black)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-AAFFF7?&labelColor=AAFFF7&logo=adobe-photoshop&logoColor=black)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-AAFFF7?&labelColor=AAFFF7&logo=adobe-illustrator&logoColor=black)
-![Aftereffects](https://img.shields.io/badge/-Aftereffects-AAFFF7?&labelColor=AAFFF7&logo=adobe-aftereffects&logoColor=black)
+![Aftereffects](https://img.shields.io/badge/-Aftereffects-AAFFF7?&labelColor=AAFFF7&logo=adobe-after-effects&logoColor=black)
+![Spark](https://img.shields.io/badge/-SparkAR-AAFFF7?&labelColor=AAFFF7&logo=spark-ar&logoColor=black)
 
 </p>
 
@@ -68,10 +69,12 @@
 
  -💪 Motivación y persistencia
  
- - [![Linkedin](https://img.shields.io/badge/-🐲-AAFFF7?&labelColor=AAFFF7)]
+ - ![Linkedin](https://img.shields.io/badge/-🐲-AAFFF7?&labelColor=AAFFF7)
  
 <h3 align="left">Connect with me:</h3>
+
 [![Linkedin](https://img.shields.io/badge/-Find me in Linkedin-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
+
 [![Mail](https://img.shields.io/badge/-Send me a mail-AAFFF7?&labelColor=AAFFF7&logo=gmail&logoColor=black)](hola@lymbus.xyz)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lymbus&show_icons=true&locale=en&layout=compact" alt="lymbus" /></p>
