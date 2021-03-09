@@ -1,15 +1,14 @@
 <h2 align="center">Hi , I'm Lydia  <img align="rigth" alt="GIF" src="https://media.giphy.com/media/5IWUD4e16wgV0qHOY0/giphy.gif" width="60" height="60" /> </h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center">Apassionate frontend developer from Spain </h3>
 <div align="center">
  
 [![Linkedin](https://img.shields.io/badge/-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
 [![Mail](https://img.shields.io/badge/-AAFFF7?&labelColor=AAFFF7&logo=gmail&logoColor=black)](hola@lymbus.xyz)
 [![Instagram](https://img.shields.io/badge/-AAFFF7?&labelColor=AAFFF7&logo=instagram&logoColor=black)](https://www.instagram.com/lymbus.xyz/)
+[![Portfolio](https://img.shields.io/badge/-🐲Portfolio-AAFFF7?&labelColor=AAFFF7&logo=link&logoColor=black)](https://lymbus.github.io/PORFOLIO/)
 
  </div>
  
-
-
  
 <div align="left">
 
@@ -59,24 +58,25 @@
 
 </p>
 
-
-[![Portfolio](https://img.shields.io/badge/-🐲Portfolio-AAFFF7?&labelColor=AAFFF7&logo=link&logoColor=black)](https://lymbus.github.io/PORFOLIO/)
-
 <h4>Skills</h4>
 
  -💻 Programación
 
  -🎨 Creativity
 
- -💪 Motivación y persistencia
- 
- 
-<h3 align="left">Connect with me:</h3>
+ -💪 Motivation
 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lymbus&show_icons=true&locale=en&layout=compact" alt="lymbus" /></p>
+
+<h3 align="center">Do you connect with me? </h3>
+
+<p align="center"> 
+ 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
 [![Mail](https://img.shields.io/badge/-Email-AAFFF7?&labelColor=AAFFF7&logo=gmail&logoColor=black)](hola@lymbus.xyz)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lymbus&show_icons=true&locale=en&layout=compact" alt="lymbus" /></p>
+</p>
 
 <p align="center">Check out my repos </p>
 <p align="center">⬇️ ⬇️ ⬇️</p>
