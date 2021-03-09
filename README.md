@@ -4,7 +4,7 @@
 
 <div align="center">
  
-[![Linkedin](https://img.shields.io/badge/-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
+[![Linkedin](https://img.shields.io/badge/-logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
 [![Mail](https://img.shields.io/badge/-AAFFF7?&labelColor=AAFFF7&logo=gmail&logoColor=black)](hola@lymbus.xyz)
 [![Instagram](https://img.shields.io/badge/-AAFFF7?&labelColor=AAFFF7&logo=instagram&logoColor=black)](https://www.instagram.com/lymbus.xyz/)
 
@@ -73,7 +73,7 @@
  
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin](https://img.shields.io/badge/-Find me in Linkedin-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
+[![Linkedin](https://img.shields.io/badge/-Find-me-in-Linkedin-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
 
 [![Mail](https://img.shields.io/badge/-Send me a mail-AAFFF7?&labelColor=AAFFF7&logo=gmail&logoColor=black)](hola@lymbus.xyz)
 
