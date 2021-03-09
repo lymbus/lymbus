@@ -1,4 +1,4 @@
-<h2 align="center">Hi , I'm Lydia 👋</h1>
+<h2 align="center">Hi , I'm Lydia 👋</h1><img align="rigth" alt="GIF" src="https://media.giphy.com/media/5IWUD4e16wgV0qHOY0/giphy.gif" width="150" height="150" />
 <h3 align="center">A passionate frontend developer from Spain</h3>
 <div align="center">
  
@@ -8,7 +8,7 @@
 
  </div>
  
-<img align="rigth alt="GIF" src="animacion.gif" width="250" height="250" />
+
 
  
 <div align="left">
@@ -60,7 +60,7 @@
 </p>
 
 
-[![Portfolio](https://img.shields.io/badge/-Check my portfolio-AAFFF7?&labelColor=AAFFF7&logo=link&logoColor=black)](https://lymbus.github.io/PORFOLIO/)
+[![Portfolio](https://img.shields.io/badge/-🐲Portfolio-AAFFF7?&labelColor=AAFFF7&logo=link&logoColor=black)](https://lymbus.github.io/PORFOLIO/)
 
 <h4>Skills</h4>
 
@@ -70,7 +70,6 @@
 
  -💪 Motivación y persistencia
  
- - ![Linkedin](https://img.shields.io/badge/-🐲-AAFFF7?&labelColor=AAFFF7)
  
 <h3 align="left">Connect with me:</h3>
 
