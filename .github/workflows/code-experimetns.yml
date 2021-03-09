@@ -6,11 +6,11 @@ on:
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update 
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: lymbus/code-experiments@master
+      - uses: lymbus@main
         with:
           feed_list: "https://codepen.io/lymbus/pens"
           comment_tag_name: 'CD'
