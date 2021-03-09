@@ -34,7 +34,7 @@ Phostoshop Illustrator AfterEffects Revit AutoCAD
 - 🎨 3D art witch blender
 
 - 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23694640?logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%21294640?logo=javascript&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-%23f89d71?logo=sass&logoColor=white)
 
 ![CSS3](https://img.shields.io/badge/-CSS3-%23748074?logo=css3&logoColor=white)
