@@ -13,15 +13,11 @@
 
 💪 Motivación y persistencia
 
-JavaScript Sass CSS3 GIT HTML5 Typescript Python(básico)
+
 
 -Conocimientos 3D,VR y AR:
 
-Blender  SparkAR  UnrealEngine4
 
--Otros conocimientos:
-
-Phostoshop Illustrator AfterEffects Revit AutoCAD
 
 <h1 align="center">Hi 👋, I'm Lydia</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
@@ -35,7 +31,7 @@ Phostoshop Illustrator AfterEffects Revit AutoCAD
 - 🎨 3D art witch blender
 
 
-<img alt="LinkedIn" src=""></a>
+
 ![JavaScript](https://img.shields.io/badge/-Javascript-AAFFF7?&labelColor=AAFFF7&logo=javascript&logoColor=black)
 
 ![Sass](https://img.shields.io/badge/-Sass-AAFFF7?&labelColor=AAFFF7&logo=sass&logoColor=black)
@@ -43,20 +39,22 @@ Phostoshop Illustrator AfterEffects Revit AutoCAD
 ![CSS3](https://img.shields.io/badge/-CSS3-AAFFF7?&labelColor=AAFFF7&logo=css3&logoColor=black)
 ![GIT](https://img.shields.io/badge/-GIT-AAFFF7?&labelColor=AAFFF7&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-AAFFF7?&labelColor=AAFFF7&logo=html5&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-AAFFF7?&labelColor=AAFFF7&logo=html5&logoColor=white)
+![JS](https://img.shields.io/badge/-Javascript-AAFFF7?&labelColor=AAFFF7&logo=javascript&logoColor=white)
 
 ![Typescript](https://img.shields.io/badge/-Typescript-AAFFF7?&labelColor=AAFFF7&logo=typescript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-AAFFF7?&labelColor=AAFFF7&logo=python&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-AAFFF7?&labelColor=AAFFF7&logo=blender&logoColor=white)
+![Unreal](https://img.shields.io/badge/-Unreal-AAFFF7?&labelColor=AAFFF7&logo=unreal&logoColor=black)
 
 <img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black"></a>
 <img alt="Email" src="https://img.shields.io/badge/-Email-%23694640?logo=gmail&logoColor=white"></a>
+[![Linkedin](https://img.shields.io/badge/-Linkedin-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
+[![Instagram](https://img.shields.io/badge/-Instagram-AAFFF7?&labelColor=AAFFF7&logo=instagram&logoColor=black)](https://www.instagram.com/lymbus.xyz/)
+[![Web](https://img.shields.io/badge/-Web-AAFFF7?&labelColor=AAFFF7&logo=web&logoColor=black)](https://lymbus.github.io/PORFOLIO/)
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
- -![linkedin](https://img.shields.io/badge/-Linkedin-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)(https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
- -[Insta](https://www.instagram.com/lymbus.xyz/)
- -[Portfolio](https://lymbus.github.io/PORFOLIO/)
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
