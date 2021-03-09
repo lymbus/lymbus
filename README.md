@@ -3,15 +3,14 @@
 
 🔍Buscando mi primera oportunidad como desarrolladora frontend
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xT39D2XcdBlkfOH1Yc/giphy.gif" width="500" height="320" />
-### Habilidades:
+
+<h4>Skills</h4>
 
 💻 Programación
 
 🎨 Creatividad
 
 💪 Motivación y persistencia
-
-### Conocimientos frontend:
 
 JavaScript Sass CSS3 GIT HTML5 Typescript Python(básico)
 
@@ -28,15 +27,17 @@ Phostoshop Illustrator AfterEffects Revit AutoCAD
 
 - 🌱 I’m currently learning **graphql,node.js, three.js and react**
 
-- 👨‍💻 All of my projects are available at [lymbus.xyz](lymbus.xyz)
+- 👨‍💻 All of my projects are available [here](https://lymbus.github.io/PORFOLIO/)
 
-- 📝 I regularly experiment witch code on [https://codepen.io/lymbus](https://codepen.io/lymbus)
+- 📝 I regularly experiment witch code on [Codepen](https://codepen.io/lymbus)
 
 - 🎨 3D art witch blender
 
+- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- -[LinkedIn](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
+ -[![linkedin](https://img.shields.io/badge/-@orhunp-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
  -[Insta](https://www.instagram.com/lymbus.xyz/)
  -[Portfolio](https://lymbus.github.io/PORFOLIO/)
 </p>
@@ -56,8 +57,9 @@ Phostoshop Illustrator AfterEffects Revit AutoCAD
 </p>
  
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lymbus&show_icons=true&locale=en&layout=compact" alt="lymbus" /></p>
+
+<p align="center">Check out my repos ⬇️</p>
  
 
 
