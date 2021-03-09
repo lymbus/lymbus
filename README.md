@@ -58,10 +58,10 @@
 ![Spark](https://img.shields.io/badge/-SparkAR-AAFFF7?&labelColor=AAFFF7&logo=spark-ar&logoColor=black)
 
 </p>
-<div align="right"> 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=lymbus&show_icons=true&locale=en&layout=compact" alt="lymbus" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lymbus&show_icons=true&locale=en&layout=compact" alt="lymbus" />
 </div>
-</div>
+
 
 <h4>Skills</h4>
 
