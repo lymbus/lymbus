@@ -51,7 +51,7 @@ Phostoshop Illustrator AfterEffects Revit AutoCAD
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- -[![linkedin](https://img.shields.io/badge/-@orhunp-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
+ -![linkedin](https://img.shields.io/badge/-Linkedin-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)(https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
  -[Insta](https://www.instagram.com/lymbus.xyz/)
  -[Portfolio](https://lymbus.github.io/PORFOLIO/)
 </p>
