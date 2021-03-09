@@ -6,16 +6,14 @@
  
 [![Linkedin](https://img.shields.io/badge/-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
 [![Mail](https://img.shields.io/badge/-AAFFF7?&labelColor=AAFFF7&logo=gmail&logoColor=black)](hola@lymbus.xyz)
-[![Instagram](https://img.shields.io/badge/-Instagram-AAFFF7?&labelColor=AAFFF7&logo=instagram&logoColor=black)](https://www.instagram.com/lymbus.xyz/)
+[![Instagram](https://img.shields.io/badge/-AAFFF7?&labelColor=AAFFF7&logo=instagram&logoColor=black)](https://www.instagram.com/lymbus.xyz/)
 
  </div>
 <div align="left">
 
 -Conocimientos 3D,VR y AR:
 
-
-<h1 align="center">Hi 👋, I'm Lydia</h1>
-
+-🔍Buscando mi primera oportunidad como desarrolladora frontend
 
 - 🌱 I’m currently learning **graphql,node.js, three.js and react**
 
@@ -23,12 +21,15 @@
 
 - 📝 I regularly experiment witch code on [Codepen](https://codepen.io/lymbus)
 
-- 🎨 3D art witch blender
+- 🎨 I´m learning 3D art witch blender
+
+- 💙 
 
 
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <h4>Frontend</h4>
 
 <p align="left"> 
@@ -68,8 +69,8 @@
  -💪 Motivación y persistencia
  
 <h3 align="left">Connect with me:</h3>
-
-
+[![Linkedin](https://img.shields.io/badge/-Find me in Linkedin-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
+[![Mail](https://img.shields.io/badge/-Send me a mail-AAFFF7?&labelColor=AAFFF7&logo=gmail&logoColor=black)](hola@lymbus.xyz)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lymbus&show_icons=true&locale=en&layout=compact" alt="lymbus" /></p>
 
