@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Lydia 👋</h1><img align="right" alt="GIF" src="https://giphy.com/gifs/transparent-98XUMCmVePpqoe0iec" width="200" height="100" />
+<h1 align="center">Hi , I'm Lydia 👋</h1><img align="right" alt="GIF" src="https://media.giphy.com/media/98XUMCmVePpqoe0iec/giphy.gif" width="200" height="100" />
 
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
