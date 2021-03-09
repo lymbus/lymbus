@@ -53,8 +53,8 @@
 ![Blender](https://img.shields.io/badge/-Blender-AAFFF7?&labelColor=AAFFF7&logo=blender&logoColor=black)
 ![Unreal](https://img.shields.io/badge/-Unreal-AAFFF7?&labelColor=AAFFF7&logo=unreal-engine&logoColor=black)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-AAFFF7?&labelColor=AAFFF7&logo=adobe-photoshop&logoColor=black)
-![Illustrator](https://img.shields.io/badge/-Illustrator-AAFFF7?&labelColor=AAFFF7&logo=adobe_illustrator&logoColor=black)
-![Aftereffects](https://img.shields.io/badge/-Aftereffects-AAFFF7?&labelColor=AAFFF7&logo=aftereffects&logoColor=black)
+![Illustrator](https://img.shields.io/badge/-Illustrator-AAFFF7?&labelColor=AAFFF7&logo=adobe-illustrator&logoColor=black)
+![Aftereffects](https://img.shields.io/badge/-Aftereffects-AAFFF7?&labelColor=AAFFF7&logo=adobe-aftereffects&logoColor=black)
 
 </p>
 
@@ -66,11 +66,9 @@
 [![Web](https://img.shields.io/badge/-Web-AAFFF7?&labelColor=AAFFF7&logo=link&logoColor=black)](https://lymbus.github.io/PORFOLIO/)
 
 
-
-
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
+[![Linkedin](https://img.shields.io/badge/-''-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
 [![Mail](https://img.shields.io/badge/-Email-AAFFF7?&labelColor=AAFFF7&logo=gmail&logoColor=black)](hola@lymbus.xyz)
 
 <p align="left"> 
