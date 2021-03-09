@@ -40,7 +40,7 @@
 ![JavaScript](https://img.shields.io/badge/-Javascript-AAFFF7?&labelColor=AAFFF7&logo=javascript&logoColor=black)
 ![Sass](https://img.shields.io/badge/-Sass-AAFFF7?&labelColor=AAFFF7&logo=sass&logoColor=black)
 ![Typescript](https://img.shields.io/badge/-Typescript-AAFFF7?&labelColor=AAFFF7&logo=typescript&logoColor=black)
-![GIT](https://img.shields.io/badge/-GIT-AAFFF7?&labelColor=AAFFF7&logo=git&logoColor=white)
+![GIT](https://img.shields.io/badge/-GIT-AAFFF7?&labelColor=AAFFF7&logo=git&logoColor=black)
 
 </p>
 
@@ -52,8 +52,8 @@
 ![Python](https://img.shields.io/badge/-Python-AAFFF7?&labelColor=AAFFF7&logo=python&logoColor=black)
 ![Blender](https://img.shields.io/badge/-Blender-AAFFF7?&labelColor=AAFFF7&logo=blender&logoColor=black)
 ![Unreal](https://img.shields.io/badge/-Unreal-AAFFF7?&labelColor=AAFFF7&logo=unreal-engine&logoColor=black)
-![Photoshop](https://img.shields.io/badge/-Photoshop-AAFFF7?&labelColor=AAFFF7&logo=photoshop&logoColor=black)
-![Illustrator](https://img.shields.io/badge/-Illustrator-AAFFF7?&labelColor=AAFFF7&logo=illustrator&logoColor=black)
+![Photoshop](https://img.shields.io/badge/-Photoshop-AAFFF7?&labelColor=AAFFF7&logo=adobe-photoshop&logoColor=black)
+![Illustrator](https://img.shields.io/badge/-Illustrator-AAFFF7?&labelColor=AAFFF7&logo=adobe_illustrator&logoColor=black)
 ![Aftereffects](https://img.shields.io/badge/-Aftereffects-AAFFF7?&labelColor=AAFFF7&logo=aftereffects&logoColor=black)
 
 </p>
