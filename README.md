@@ -31,7 +31,7 @@
 <div> 
    <h3 align="left">Languages and Tools:</h3>
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lymbus&show_icons=true&locale=en&layout=compact&bg_color=AAFFF7" alt="lymbus" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lymbus&show_icons=true&locale=en&layout=compact&bg_color=AAFFF7&title_color=000000&hide_border=false" alt="lymbus" />
  <div align="left"> 
 
   <h4>Frontend</h4>
