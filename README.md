@@ -24,8 +24,6 @@ Blender  SparkAR  UnrealEngine4
 
 Phostoshop Illustrator AfterEffects Revit AutoCAD
 
-
-
 ## Contacto: 
  -[LinkedIn](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
  
