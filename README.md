@@ -21,7 +21,7 @@
 
 - 📝 I regularly experiment with code on [Codepen](https://codepen.io/lymbus)
 
-- 🎨 I´m learning 3D art witch blender
+- 🎨 I´m learning 3D art with blender
 
 - 💙 Interested in 3D,VR y AR
 
