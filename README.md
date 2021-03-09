@@ -43,7 +43,7 @@ Phostoshop Illustrator AfterEffects Revit AutoCAD
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23744074?logo=bootstrap&logoColor=white)
 ![kkekeke](https://img.shields.io/badge/-Typescript-%23748074?logo=typescript&logoColor=white)
 
-<img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%23694640?logo=linkedin&logoColor=white"></a>
+<img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-DAF7A6?&labelColor=DAF7A6&logo=linkedin&logoColor=white"></a>
 <img alt="Email" src="https://img.shields.io/badge/-Email-%23694640?logo=gmail&logoColor=white"></a>
 
 
