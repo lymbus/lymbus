@@ -32,8 +32,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <h4>Frontend</h4>
+
+
 ![HTML5](https://img.shields.io/badge/-HTML5-AAFFF7?&labelColor=AAFFF7&logo=html5&logoColor=black)
+
 ![CSS3](https://img.shields.io/badge/-CSS3-AAFFF7?&labelColor=AAFFF7&logo=css3&logoColor=black)
+
 ![JavaScript](https://img.shields.io/badge/-Javascript-AAFFF7?&labelColor=AAFFF7&logo=javascript&logoColor=black)
 
 
