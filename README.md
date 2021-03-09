@@ -1,9 +1,8 @@
-
-### Hola 👋
-Soy Lydia, desarrolladora junior frontend.
+<h1 align="center">Hi 👋, I'm Lydia</h1>
+<h3 align="center">A passionate frontend developer from Spain</h3>
 
 🔍Buscando mi primera oportunidad como desarrolladora frontend
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xT39D2XcdBlkfOH1Yc/giphy.gif" width="500" height="320" />
 ### Habilidades:
 
 💻 Programación
@@ -35,6 +34,8 @@ Phostoshop Illustrator AfterEffects Revit AutoCAD
 - 👨‍💻 All of my projects are available at [lymbus.xyz](lymbus.xyz)
 
 - 📝 I regularly experiment witch code on [https://codepen.io/lymbus](https://codepen.io/lymbus)
+
+- 🎨 3D art witch blender
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
