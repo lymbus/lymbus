@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Lydia 👋</h1><img align="right" alt="GIF" src="animacion.gif" width="400" height="400" />
+<h1 align="center">Hi , I'm Lydia 👋</h1><img align="right" alt="GIF" src="animacion.gif" width="300" height="300" />
 
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
