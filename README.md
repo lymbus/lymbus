@@ -33,17 +33,19 @@ Phostoshop Illustrator AfterEffects Revit AutoCAD
 
 - 🎨 3D art witch blender
 
-- 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%21294640?logo=javascript&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-%23f89d71?logo=sass&logoColor=white)
 
-![CSS3](https://img.shields.io/badge/-CSS3-%23748074?logo=css3&logoColor=white)
-![GIT](https://img.shields.io/badge/-Git-%#DAF7A6?logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-%23f89d71?logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23744074?logo=bootstrap&logoColor=white)
-![kkekeke](https://img.shields.io/badge/-Typescript-%23748074?logo=typescript&logoColor=white)
+<img alt="LinkedIn" src=""></a>
+![JavaScript](https://img.shields.io/badge/-Javascript-AAFFF7?&labelColor=AAFFF7&logo=javascript&logoColor=white)
 
-<img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-DAF7A6?&labelColor=DAF7A6&logo=linkedin&logoColor=white"></a>
+![Sass](https://img.shields.io/badge/-Sass-AAFFF7?&labelColor=AAFFF7&logo=sass&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/-CSS3-AAFFF7?&labelColor=AAFFF7&logo=css3&logoColor=white)
+![GIT](https://img.shields.io/badge/-GIT-AAFFF7?&labelColor=AAFFF7&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-AAFFF7?&labelColor=AAFFF7&logo=html5&logoColor=white)
+
+![Typescript](https://img.shields.io/badge/-Typescript-AAFFF7?&labelColor=AAFFF7&logo=typescript&logoColor=white)
+
+<img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=white"></a>
 <img alt="Email" src="https://img.shields.io/badge/-Email-%23694640?logo=gmail&logoColor=white"></a>
 
 
