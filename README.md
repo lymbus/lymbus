@@ -1,7 +1,5 @@
 <h2 align="center">Hi , I'm Lydia 👋</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
-<img align="center" alt="GIF" src="animacion.gif" width="300" height="300" />
-
 <div align="center">
  
 [![Linkedin](https://img.shields.io/badge/-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
@@ -9,6 +7,9 @@
 [![Instagram](https://img.shields.io/badge/-AAFFF7?&labelColor=AAFFF7&logo=instagram&logoColor=black)](https://www.instagram.com/lymbus.xyz/)
 
  </div>
+ 
+<img align="rigth alt="GIF" src="animacion.gif" width="250" height="250" />
+
  
 <div align="left">
 
@@ -59,7 +60,7 @@
 </p>
 
 
-[![Portfolio](https://img.shields.io/badge/-Web-AAFFF7?&labelColor=AAFFF7&logo=link&logoColor=black)](https://lymbus.github.io/PORFOLIO/)
+[![Portfolio](https://img.shields.io/badge/-Check my portfolio-AAFFF7?&labelColor=AAFFF7&logo=link&logoColor=black)](https://lymbus.github.io/PORFOLIO/)
 
 <h4>Skills</h4>
 
