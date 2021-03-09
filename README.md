@@ -23,9 +23,6 @@ Blender  SparkAR  UnrealEngine4
 
 Phostoshop Illustrator AfterEffects Revit AutoCAD
 
-## Contacto: 
- -[LinkedIn](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
- 
 <h1 align="center">Hi 👋, I'm Lydia</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
@@ -39,8 +36,9 @@ Phostoshop Illustrator AfterEffects Revit AutoCAD
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/lymbus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="lymbus" height="30" width="40" /></a>
-<a href="https://instagram.com/lymbus.xyz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lymbus.xyz" height="30" width="40" /></a>
+ -[LinkedIn](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
+ -[Insta](https://www.instagram.com/lymbus.xyz/)
+ -[Portfolio](https://lymbus.github.io/PORFOLIO/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
