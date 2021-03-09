@@ -74,8 +74,8 @@
 <div align="center"> 
  
 [![Linkedin](https://img.shields.io/badge/-Linkedin-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-est%C3%A9vez-chamorro/)
-
 [![Mail](https://img.shields.io/badge/-Email-AAFFF7?&labelColor=AAFFF7&logo=gmail&logoColor=black)](hola@lymbus.xyz)
+
 </div>
 
 
