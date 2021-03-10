@@ -13,17 +13,17 @@
 <div align="left">
 
 
-- 🔍 Looking for my first opportunity as a frontend developer
+- 🔍 Looking for my first opportunity as a frontend developer.
 
-- 🌱 I’m currently learning **graphql,node.js, three.js and react**
+- 🌱 I’m currently learning **graphql,node.js, three.js and react**.
 
-- 👨‍💻 All of my projects are available [here](https://lymbus.github.io/PORFOLIO/)
+- 👨‍💻 All of my projects are available [here](https://lymbus.github.io/PORFOLIO/).
 
-- 📝 I regularly experiment with code on [Codepen](https://codepen.io/lymbus)
+- 📝 I regularly experiment with code on [Codepen](https://codepen.io/lymbus).
 
-- 🎨 I´m learning 3D art with blender
+- 🎨 I´m learning 3D art with blender.
 
-- 💙 Interested in 3D,VR y AR
+- 💙 Interested in 3D,VR y AR.
 
 
 </div>
