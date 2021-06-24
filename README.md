@@ -43,7 +43,7 @@
   ![JavaScript](https://img.shields.io/badge/-Javascript-AAFFF7?&labelColor=AAFFF7&logo=javascript&logoColor=black)
   ![Sass](https://img.shields.io/badge/-Sass-AAFFF7?&labelColor=AAFFF7&logo=sass&logoColor=black)
   ![Typescript](https://img.shields.io/badge/-Typescript-AAFFF7?&labelColor=AAFFF7&logo=typescript&logoColor=black)
-  ![C#](https://img.shields.io/badge/-C#-AAFFF7?&labelColor=AAFFF7&logo=csharp&logoColor=black)
+  ![C#](https://img.shields.io/badge/-CSharp-AAFFF7?&labelColor=AAFFF7&logo=csharp&logoColor=black)
   ![Python](https://img.shields.io/badge/-Python-AAFFF7?&labelColor=AAFFF7&logo=python&logoColor=black)
   ![Azure](https://img.shields.io/badge/-Azure-AAFFF7?&labelColor=AAFFF7&logo=azuredevops&logoColor=black)
   ![GIT](https://img.shields.io/badge/-GIT-AAFFF7?&labelColor=AAFFF7&logo=git&logoColor=black)
