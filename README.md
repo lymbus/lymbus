@@ -15,9 +15,9 @@
 
 - 🔍 Looking for my first opportunity as a frontend developer.
 
-- 🌱 I’m currently learning **graphql,node.js, three.js and react**.
+- 🌱 I’m currently learning **graphql,node.js, three.js and vue**.
 
-- 👨‍💻 All of my projects are available [here](https://lymbus.github.io/PORFOLIO/).
+- 👨‍💻 All of my projects are available [here](https://lymbus.github.io/dev/).
 
 - 📝 I regularly experiment with code on [Codepen](https://codepen.io/lymbus).
 
@@ -34,7 +34,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lymbus&show_icons=true&locale=en&layout=compact&bg_color=AAFFF7&title_color=000000&hide_border=false" alt="lymbus" />
  <div align="left"> 
 
-  <h4> 💻 Frontend</h4>
+  <h4> 💻 Development </h4>
 
   <p align="left"> 
 
@@ -43,6 +43,9 @@
   ![JavaScript](https://img.shields.io/badge/-Javascript-AAFFF7?&labelColor=AAFFF7&logo=javascript&logoColor=black)
   ![Sass](https://img.shields.io/badge/-Sass-AAFFF7?&labelColor=AAFFF7&logo=sass&logoColor=black)
   ![Typescript](https://img.shields.io/badge/-Typescript-AAFFF7?&labelColor=AAFFF7&logo=typescript&logoColor=black)
+  ![C#](https://img.shields.io/badge/-C#-AAFFF7?&labelColor=AAFFF7&logo=c#&logoColor=black)
+  ![Python](https://img.shields.io/badge/-Python-AAFFF7?&labelColor=AAFFF7&logo=python&logoColor=black)
+  ![Azure](https://img.shields.io/badge/-Azure-AAFFF7?&labelColor=AAFFF7&logo=azure&logoColor=black)
   ![GIT](https://img.shields.io/badge/-GIT-AAFFF7?&labelColor=AAFFF7&logo=git&logoColor=black)
 
   </p>
@@ -52,7 +55,7 @@
 
   <p align="left"> 
 
-  ![Python](https://img.shields.io/badge/-Python-AAFFF7?&labelColor=AAFFF7&logo=python&logoColor=black)
+
   ![Blender](https://img.shields.io/badge/-Blender-AAFFF7?&labelColor=AAFFF7&logo=blender&logoColor=black)
   ![Unreal](https://img.shields.io/badge/-Unreal-AAFFF7?&labelColor=AAFFF7&logo=unreal-engine&logoColor=black)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-AAFFF7?&labelColor=AAFFF7&logo=adobe-photoshop&logoColor=black)
