@@ -13,8 +13,6 @@
 <div align="left">
 
 
-- 🔍 Looking for my first opportunity as a frontend developer.
-
 - 🌱 I’m currently learning **graphql,node.js, three.js and vue**.
 
 - 👨‍💻 All of my projects are available [here](https://lymbus.github.io/dev/).
