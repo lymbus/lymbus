@@ -1,5 +1,5 @@
 <h2 align="center">Hi , I'm Lydia  <img align="rigth" alt="GIF" src="https://media.giphy.com/media/5IWUD4e16wgV0qHOY0/giphy.gif" width="60" height="60" /> </h1>
-<h3 align="center">Apassionate frontend developer from Spain </h3>
+<h3 align="center">Apassionate developer from Spain </h3>
 <div align="center">
  
 [![Linkedin](https://img.shields.io/badge/-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-estevez-chamorro)
