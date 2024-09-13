@@ -4,8 +4,6 @@
  
 [![Linkedin](https://img.shields.io/badge/-AAFFF7?&labelColor=AAFFF7&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lydia-estevez-chamorro)
 [![Mail](https://img.shields.io/badge/-AAFFF7?&labelColor=AAFFF7&logo=gmail&logoColor=black)](hola@lymbus.xyz)
-[![Instagram](https://img.shields.io/badge/-AAFFF7?&labelColor=AAFFF7&logo=instagram&logoColor=black)](https://www.instagram.com/lymbus.xyz/)
-[![Portfolio](https://img.shields.io/badge/-🐲Portfolio-AAFFF7?&labelColor=AAFFF7&logo=link&logoColor=black)](https://lymbus.github.io/dev/)
 
  </div>
  
@@ -42,7 +40,7 @@
   ![Sass](https://img.shields.io/badge/-Sass-AAFFF7?&labelColor=AAFFF7&logo=sass&logoColor=black)
   ![Typescript](https://img.shields.io/badge/-Typescript-AAFFF7?&labelColor=AAFFF7&logo=typescript&logoColor=black)
   ![C#](https://img.shields.io/badge/-CSharp-AAFFF7?&labelColor=AAFFF7&logo=csharp&logoColor=black)
-  ![.NET](https://img.shields.io/badge/-Net-AAFFF7?&labelColor=AAFFF7&logo=csharp&logoColor=black)
+  ![.NET](https://img.shields.io/badge/-.Net-AAFFF7?&labelColor=AAFFF7&logo=csharp&logoColor=black)
   ![Python](https://img.shields.io/badge/-Python-AAFFF7?&labelColor=AAFFF7&logo=python&logoColor=black)
   ![Azure](https://img.shields.io/badge/-Azure-AAFFF7?&labelColor=AAFFF7&logo=azuredevops&logoColor=black)
   ![GIT](https://img.shields.io/badge/-GIT-AAFFF7?&labelColor=AAFFF7&logo=git&logoColor=black)
