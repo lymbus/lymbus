@@ -11,15 +11,11 @@
 <div align="left">
 
 
-- 🌱 I’m currently learning **graphql,node.js, three.js and vue**.
-
-- 👨‍💻 All of my projects are available [here](https://lymbus.github.io/dev/).
+- 🌱 I’m currently learning **docker, three.js and angular**.
 
 - 📝 I regularly experiment with code on [Codepen](https://codepen.io/lymbus).
 
 - 🎨 I´m learning 3D art with blender.
-
-- 💙 Interested in 3D,VR y AR.
 
 
 </div>
